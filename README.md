@@ -1,5 +1,5 @@
 
-# ⚡ GCP IP Forwarding with PSC & Load Balancer (Terraform Module)
+# ⚡ GCP  Private Service Connect, Load Balancer and VM with IP Forwarding (Terraform Module)
 
 This Terraform script provisions a flexible GCP setup for port forwarding via Linux or Windows VMs with support for:
 
